@@ -1,0 +1,11 @@
+package basicjava;
+
+public class Hello {
+
+	public static void main(String[] args) {
+		System.out.println("Hello World \nI am coming");
+		int age = 25;
+		System.out.println(age);
+	}
+
+}

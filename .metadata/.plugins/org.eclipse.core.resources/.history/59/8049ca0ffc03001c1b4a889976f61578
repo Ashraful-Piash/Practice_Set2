@@ -1,0 +1,15 @@
+package math;
+
+import java.util.Scanner;
+
+public class InputDemo {
+
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner (System.in);
+		System.out.println("enter your age");
+		byte age = scanner.nextByte();
+		System.out.println("age is :" +age);
+
+	}
+
+}

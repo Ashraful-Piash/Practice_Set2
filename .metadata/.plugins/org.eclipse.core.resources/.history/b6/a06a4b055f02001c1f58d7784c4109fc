@@ -1,0 +1,15 @@
+package basicjava;
+
+public class StringPractice {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String message = "hello " + "world";
+		System.out.println(message.endsWith("d"));
+		System.out.println(message.startsWith("h"));
+		System.out.println(message.length());
+		System.out.println (message.indexOf("e"));
+		System.out.println(message.replace("world", "babe"));
+		
+	}
+}

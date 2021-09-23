@@ -1,0 +1,12 @@
+package basicjava;
+
+public class StringPractice {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String message = "hello";
+		System.out.println(message);
+
+	}
+
+}
